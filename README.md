@@ -9,9 +9,9 @@
 
 ## Active
 ### TO-DO(chatgpt)
-- [ ] [ ] Git 기본 커맨드 실습 (init, commit, push)
-- [ ] [ ] Google Colab 환경 체크
+- [ ] Git 기본 커맨드 실습 (init, commit, push)
+- [ ] Google Colab 환경 체크
 - [ ] 클래스 / 상속 / 리스트 컴프리헨션 등 파이썬 고유 문법 복습
-- [ ] [ ] NumPy로 간단한 벡터 연산 해보기
-- [ ] [ ] matplotlib로 기본 시각화 해보기
+- [ ] NumPy로 간단한 벡터 연산 해보기
+- [ ] matplotlib로 기본 시각화 해보기
 #### Active to-do는 언제든지 바뀔수있으며 기록이 아니고 계획임 기록은 archived에 있음
